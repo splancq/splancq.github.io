@@ -32,4 +32,5 @@ plugins:
  - jekyll-feed
 
 collections:
-  - utils
+  - utils :
+    output: true
