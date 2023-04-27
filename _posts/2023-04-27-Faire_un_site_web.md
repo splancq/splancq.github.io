@@ -1,5 +1,5 @@
 ---
-title:  "Faire un site web avec github pages"
+title:  "Faire un site web avec GitHub Pages et Jekyll"
 layout: post
 categories: media
 ---
@@ -21,7 +21,7 @@ https://github.com/MihajloNesic/jekyll-pdf-embed
 
 {% include embed.html url="https://www.youtube.com/watch?v=qZsgPgGdOzQ" %}
 
-Si le thème Jekyll [contrast](https://github.com/niklasbuschmann/contrast) utilisé dans la vidéo ainsi que pour ce site ne vous convient pas, il existe de [nombreux thèmes](http://jekyllthemes.org/) disponible gratuitement et qui utilise la même logique (fork le projet et adapter le fichier config).
+Si le thème Jekyll [contrast](https://github.com/niklasbuschmann/contrast) utilisé dans la vidéo ainsi que pour ce site ne vous convient pas, il existe de [nombreux thèmes](http://jekyllthemes.org/) disponible gratuitement et qui utilise la même logique (fork le projet et adapter à ses besoins).
 
 Jekyll possède d'autre fonctionnalités que celles présentées dans la vidéo, comme par exemple une gestion de tags, mais je ne l'ai pas encore assez pris en mains pour pouvoir en parler.
 
