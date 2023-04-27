@@ -1,5 +1,5 @@
 ---
-title:  ""Faire" un site web avec github pages"
+title:  "Faire un site web avec github pages"
 mathjax: true
 layout: post
 categories: media
@@ -17,7 +17,7 @@ GitHub Pages utilise Jekyll pour générer le site web. C'est Jekyll qui va conv
 Mais comment faire en pratique ? Je recommande chaudement la vidéo que j'ai utilisée, où Kathryn Schuler montre que l'on peut avoir un site web fonctionnel en 25mn~. Quelques petites remarques pour vous avant de voir la vidéo : déjà GitHub met quelques minutes à générer le site web, d'où parfois un délais entre la mise à jour sur GitHub et l'affichage sur le net. Aussi, depuis la sortie de la vidéo il faut aussi aller dans les paramètres du projet GitHub pour faire marcher GitHub Pages (`settings -> GitHub Pages -> sélectionner comme branch 'master'`). 
 <!---
 Enfin dans la vidéo Kathryn n'arrive pas à mettre son CV. Cela est probablemnt du (comme le dit )
-
+https://github.com/MihajloNesic/jekyll-pdf-embed
 -->
 
 {% include embed.html url="https://www.youtube.com/watch?v=qZsgPgGdOzQ" %}
