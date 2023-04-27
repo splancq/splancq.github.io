@@ -1,6 +1,5 @@
 ---
 title:  "Faire un site web avec github pages"
-mathjax: true
 layout: post
 categories: media
 ---

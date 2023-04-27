@@ -1,6 +1,6 @@
 title: "Le Fourre-tout"
 author: "splancq"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Made with <b style=\"color: #f45;\">28&#8730;e</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -18,12 +18,10 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "a_propos.md"}
-  - {url: "/JRP_japan.pdf", title :"JRP map"}
+  - {title: "JRP map", url: "JRP_japan.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:user@users.noreply.github.com"}
   - {title: Github, icon: github, url: "https://github.com/splancq"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 
 comments:
