@@ -1,5 +1,5 @@
 ---
-title:  "Premières impressions du Japon"
+title:  "Arrivée au Japon"
 layout: post
 categories: voyage-japon
 ---
