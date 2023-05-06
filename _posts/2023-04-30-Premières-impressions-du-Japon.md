@@ -4,7 +4,7 @@ layout: post
 categories: voyage-japon
 ---
 
-![belle vue](https://splancq.github.io/assets/images/posts/c-donc-ca-le-japon.jpg)
+![belle vue](/assets/images/voyage-japon/c-donc-ca-le-japon.jpg)
 *Vue typique du Japon*
 
 ## Un réseau de transport au top
@@ -19,14 +19,14 @@ Après avoir failli rater le dernier bus du trajet parce qu'on avait inversé so
 ## Une balade très verte
 
 Nous décidons de nous balader à pied pour l'après-midi. On passe sur des bords de rivières et on trouve des coins très sympas. 
-![chemin](https://splancq.github.io/assets/images/posts/joli-chemin.jpg)
-![oiso](https://splancq.github.io/assets/images/posts/oiso.jpg)
-
+![chemin](/assets/images/voyage-japon/joli-chemin.jpg)
+![oiso](/assets/images/voyage-japon/oiso.jpg)
+*Un oiseau!*
 Nous avons aussi fait beaucoup de zones résidentielles, qui sont aussi assez différentes de celles qu'on peut trouver en France. Et au milieu d'un petit quartier résidentiel, nous sommes tombé sur notre premier temple. 
 
 
-![porte](https://splancq.github.io/assets/images/posts/porte.jpg)
-![temple1](https://splancq.github.io/assets/images/posts/temple-1.jpg)
+![porte](/assets/images/voyage-japon/porte.jpg)
+![temple1](/assets/images/voyage-japon/temple-1.jpg)
 
 ## Que de silence
 
@@ -43,7 +43,7 @@ Et pour finir cette première journée, petite liste de ce qui dépayse :
 - Les dechets sont posé triés dans les zones residentielles, et il y a des cages pour les ordures qui peuvent interesser les animaux sauvages.
 - Ils ont des voitures carrées.
 
-![voiture-carree](https://splancq.github.io/assets/images/posts/voiture-carree.jpg)
+![voiture-carree](/assets/images/voyage-japon/voiture-carree.jpg)
 
 
 

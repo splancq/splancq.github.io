@@ -7,7 +7,7 @@ categories: voyage-japon
 
 ## Le JR pass
 
-Le troisième jour nous avons dû aller sur à Shinjuku pour récuperer notre JR pass. L'attente à été longue au kiosque de retrait, avec uniquement des étrangers. L'experience etait plutot déplaisante : il y avait dans cette file d'attente plus de désordre que dans les deux  jours précédents confondu. Je comprend que les locaux aient du mal avec les touristes.
+Le troisième jour nous avons dû aller à Shinjuku pour récuperer notre JR pass. L'attente à été longue au kiosque de retrait, avec uniquement des étrangers. L'experience etait plutot déplaisante : il y avait dans cette file d'attente plus de désordre que dans les deux  jours précédents confondu. Je comprend que les locaux aient du mal avec les touristes.
 
 
 ## Le parc
