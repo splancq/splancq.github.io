@@ -9,19 +9,19 @@ categories: voyage-japon
 
 ## Un réseau de transport au top
 
-Pour les premiers jours nous avons décidé de loger en périphérie de Tokyo, à 2h de transport de l'aéroport. De quoi se remettre en forme après les 16h de vol/escale ! Heureusement le réseau de Tokyo est bien conçu : la carte Suica (une carte de transport polyvalente) marche au quart de tour, il y a toujours les transcriptions en Romaji des noms de stations et les correspondances se font très bien (vive Google Maps). 
+Pour les premiers jours nous avons décidé de loger en périphérie de Tokyo, à 2h de transport de l'aéroport. De quoi se remettre en forme après les 16h de vol/escale ! Heureusement, le réseau de Tokyo est bien conçu : la carte Suica (une carte de transport polyvalente) marche au quart de tour, il y a toujours les transcriptions en Romaji des noms de stations et les correspondances se font très bien (vive Google Maps). 
 
 
 ## Une chambre à l'Européenne
 
-Après avoir failli rater le dernier bus du trajet parce qu'on avait inversé son numéro et celui du quai de départ, on arrive finalement dans le pavillon résidentiel où se trouve notre chambre. Nous sommes à Tama, près du parc Sakuragoaka. L'hote, Davi, nous acceuille chaleureusement et nous montre notre chambre, très grande avec une étonnante petite dépendance dans un style européen (on reverra pour le depaysement). 
+Après avoir failli rater le dernier bus du trajet parce qu'on avait inversé son numéro et celui du quai de départ, on arrive finalement dans le pavillon résidentiel où se trouve notre chambre. Nous sommes à Tama, près du parc Sakuragoaka. L'hôte, Davi, nous accueille  chaleureusement et nous montre notre chambre, très grande avec une étonnante petite dépendance dans un style européen (on reverra pour le dépaysement). 
 
 ## Une balade très verte
 
 Nous décidons de nous balader à pied pour l'après-midi. On passe sur des bords de rivières et on trouve des coins très sympas. 
 ![chemin](/assets/images/voyage-japon/joli-chemin.jpg)
 ![oiso](/assets/images/voyage-japon/oiso.jpg)
-*Un oiseau!*
+*Un oiseau !*
 Nous avons aussi fait beaucoup de zones résidentielles, qui sont aussi assez différentes de celles qu'on peut trouver en France. Et au milieu d'un petit quartier résidentiel, nous sommes tombé sur notre premier temple. 
 
 
@@ -30,17 +30,17 @@ Nous avons aussi fait beaucoup de zones résidentielles, qui sont aussi assez di
 
 ## Que de silence
 
-Dans les transports, il y a un point frappant : le silence. Je ferai probablement un post dédié aux transports car il y a beaucoup de choses qui diffèrent de la France.
+Dans les transports, il y a un point frappant : le silence. Je ferai probablement un post dédié aux transports, car il y a beaucoup de choses qui diffèrent de la France.
 
-Ce qui est très étonnant c'est que ce silence nous a contaminé très rapidement : nous qui sommes d'habitude très bruyant on se surprend à chuchotter dans la rue et a etre silencieux dans les transports. Après tout, à Rome fait comme les Romains.
+Ce qui est très étonnant, c'est que ce silence nous a contaminés rapidement : nous qui sommes d'habitude bruyants, on se surprend à chuchoter dans la rue et a être silencieux dans les transports. Après tout, à Rome fait comme les Romains.
 
-## Points marquants ..
+## Points marquants
 
 Et pour finir cette première journée, petite liste de ce qui dépayse :
 - Tout est propre.
 - Il y a des distributeurs de boissons de partout.
 - On a trouvé une carte Suica oubliée dans la station. Je pense qu'elle est restée là jusqu'à ce que son propriétaire revienne la chercher. Il y avait même le ticket de reçu de chargement avec.
-- Les dechets sont posé triés dans les zones residentielles, et il y a des cages pour les ordures qui peuvent interesser les animaux sauvages.
+- Les déchets sont posé triés dans les zones résidentielles, et il y a des cages pour les ordures qui peuvent intéresser les animaux sauvages.
 - Ils ont des voitures carrées.
 
 ![voiture-carree](/assets/images/voyage-japon/voiture-carree.jpg)
