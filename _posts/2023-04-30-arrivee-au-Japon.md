@@ -16,12 +16,18 @@ Pour les premiers jours nous avons décidé de loger en périphérie de Tokyo, �
 
 Après avoir failli rater le dernier bus du trajet parce qu'on avait inversé son numéro et celui du quai de départ, on arrive finalement dans le pavillon résidentiel où se trouve notre chambre. Nous sommes à Tama, près du parc Sakuragoaka. L'hôte, Davi, nous accueille  chaleureusement et nous montre notre chambre, très grande avec une étonnante petite dépendance dans un style européen (on reverra pour le dépaysement). 
 
+![chemin](/assets/images/voyage-japon/salon-1.jpg)
+![chemin](/assets/images/voyage-japon/salon-2.jpg)
+
+*salon typiquement japonaise*
+
 ## Une balade très verte
 
 Nous décidons de nous balader à pied pour l'après-midi. On passe sur des bords de rivières et on trouve des coins très sympas. 
 ![chemin](/assets/images/voyage-japon/joli-chemin.jpg)
 ![oiso](/assets/images/voyage-japon/oiso.jpg)
 *Un oiseau !*
+
 Nous avons aussi fait beaucoup de zones résidentielles, qui sont aussi assez différentes de celles qu'on peut trouver en France. Et au milieu d'un petit quartier résidentiel, nous sommes tombé sur notre premier temple. 
 
 
