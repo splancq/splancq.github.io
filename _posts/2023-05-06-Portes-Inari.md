@@ -2,12 +2,15 @@
 title:  "Les portes d'Inari"
 layout: post
 categories: voyage-japon
+excerpt_separator: <!--more-->
 ---
 
 
 Notre appartement à Kyoto se trouvait à deux minutes d'un des points d'intérêt de la ville : le Fushimi Inari-taisha. Il s'agit d'un chemin qui monte sur une colline, où sont dressées des milliers de portes (toriis) et de très nombreux sanctuaires dédiés à Inari, déesse du riz. Chaque porte est marquée du nom de la personne/entreprise donatrice qui a permis sa construction. On ne peut lire les noms que lors de la descente.
 
 ![chemin](/assets/images/voyage-japon/inari-portes.jpg)
+
+<!--more-->
 
 Le long du chemin, on trouve de nombreux autels en pierre, qui rappellent les tombes japonaises.
 
