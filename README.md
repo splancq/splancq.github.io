@@ -1,6 +1,7 @@
 ---
 title: "A propos"
 layout: page
+permalink: "/about/"
 ---
 
 Petit blog où l'on trouvera de tout (un jour).
