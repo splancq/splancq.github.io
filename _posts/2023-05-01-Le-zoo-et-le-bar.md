@@ -2,6 +2,7 @@
 title:  "Le zoo et le bar"
 layout: post
 categories: voyage-japon
+excerpt_separator: <!--more-->
 ---
 
 
@@ -13,6 +14,9 @@ Pour ce deuxième jour, nous avons décidé de rester sur Tama et sommes allés 
 *papillon !*
 
 Le zoo était immense, avec beaucoup de dénivelé (on sent bien que le Japon est une île volcanique). Beaucoup de végétation au rendez-vous, et même un bus pour aller du bas du zoo au haut de la colline.
+
+ <!--more-->
+
 
 ## Le bar
 

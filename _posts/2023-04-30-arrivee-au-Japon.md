@@ -2,10 +2,14 @@
 title:  "Arrivée au Japon"
 layout: post
 categories: voyage-japon
+excerpt_separator: <!--more-->
 ---
 
 ![belle vue](/assets/images/voyage-japon/c-donc-ca-le-japon.jpg)
 *Vue typique du Japon*
+
+<!--more-->
+
 
 ## Un réseau de transport au top
 
