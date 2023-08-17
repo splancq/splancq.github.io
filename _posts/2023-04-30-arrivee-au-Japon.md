@@ -5,7 +5,8 @@ categories: voyage-japon
 excerpt_separator: <!--more-->
 ---
 
-![belle vue](/assets/images/voyage-japon/c-donc-ca-le-japon.jpg)
+![](https://i.imgur.com/zWW80us.jpg "C'est donc ça le japon")
+
 *Vue typique du Japon*
 
 <!--more-->
@@ -20,23 +21,25 @@ Pour les premiers jours, nous avons décidé de loger en périphérie de Tokyo, 
 
 Après avoir failli rater le dernier bus du trajet parce qu'on avait inversé son numéro et celui du quai de départ, on arrive finalement dans le pavillon résidentiel où se trouve notre chambre. Nous sommes à Tama, près du parc Sakuragoaka. L'hôte, Davi, nous accueille  chaleureusement et nous montre notre chambre, très grande avec une étonnante petite dépendance dans un style européen (on reverra pour le dépaysement). 
 
-![chemin](/assets/images/voyage-japon/salon-1.jpg)
-![chemin](/assets/images/voyage-japon/salon-2.jpg)
+![](https://i.imgur.com/1vJdEip.jpg "Fausse librairie")
+![](https://imgur.com/lekIbD6.jpg "Ave Maria")
 
-*salon typiquement japonaise*
+*salon typiquement japonais*
 
 ## Une balade très verte
 
 Nous décidons de nous balader à pied pour l'après-midi. On passe sur des bords de rivières et on trouve des coins très sympas. 
-![chemin](/assets/images/voyage-japon/joli-chemin.jpg)
-![oiso](/assets/images/voyage-japon/oiso.jpg)
+![](https://imgur.com/7GAlGLp.jpg "Tranquilité")
+![](https://imgur.com/2ajDaiW.jpg "LLWÂZO")
+
 *Un oiseau !*
 
 Nous avons aussi fait beaucoup de zones résidentielles, qui sont aussi assez différentes de celles qu'on peut trouver en France. Et au milieu d'un petit quartier résidentiel, nous sommes tombés sur notre premier temple. 
 
 
-![porte](/assets/images/voyage-japon/porte.jpg)
-![temple1](/assets/images/voyage-japon/temple-1.jpg)
+![](https://imgur.com/bXuMLpF.jpg "1ère d'une longue liste")
+
+![](https://imgur.com/2qOTFyM.jpg "1er d'une longue liste")
 
 ## Que de silence
 
@@ -53,7 +56,8 @@ Et pour finir cette première journée, petite liste de ce qui dépayse :
 - Les déchets sont posés triés dans les zones résidentielles, et il y a des cages pour les ordures qui peuvent intéresser les animaux sauvages.
 - Ils ont des voitures carrées.
 
-![voiture-carree](/assets/images/voyage-japon/voiture-carree.jpg)
+![](https://imgur.com/zASZEgq.jpg "racine ?")
+
 
 
 
