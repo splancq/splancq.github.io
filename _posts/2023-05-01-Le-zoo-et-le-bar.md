@@ -10,8 +10,7 @@ excerpt_separator: <!--more-->
 
 Pour ce deuxième jour, nous avons décidé de rester sur Tama et sommes allés au zoo. C'était un très bon choix : presque aucun touriste, on est entré dans une magnifique serre à papillons et on a même vu des pandas roux (c'est vrai qu'ils sont mignons).
 
-![chemin](/assets/images/voyage-japon/papillon.jpg)
-
+![](https://i.imgur.com/DCrOqNN.jpg "Papillon ?")
 *papillon !*
 
 Le zoo était immense, avec beaucoup de dénivelé (on sent bien que le Japon est une île volcanique). Beaucoup de végétation au rendez-vous, et même un bus pour aller du bas du zoo au haut de la colline.

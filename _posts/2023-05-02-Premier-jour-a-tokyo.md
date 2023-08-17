@@ -15,8 +15,8 @@ Le troisième jour, nous avons dû aller à Shinjuku pour récupérer notre JR p
 Ensuite, nous sommes allés au parc de Shinjuku. Très sympa, mais pas très dépaysant, on a bien aimé voir des allées de platanes "comme à Paris", mais taillés à la Japonaise au lieu de la coupe au carré. On a essayé de manger sur place, mais on n'a pas compris comment passer commande dans le restaurant du parc, donc on est sorti pour trouver un endroit où manger.
 
 
-![chemin](/assets/images/voyage-japon/parc-shinbuya-1.jpg)
-![chemin](/assets/images/voyage-japon/parc-shinbuya-2.jpg)
+![Imgur](https://i.imgur.com/o2PfRke.jpg "Ignorez le monsieur en blanc")
+![](https://i.imgur.com/3XIDqHj.jpg "Jolie couleur")
 
 ## Le restaurant de sushis
 

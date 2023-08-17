@@ -13,13 +13,11 @@ categories: media
 GitHub Pages utilise Jekyll pour générer le site web. C'est Jekyll qui va convertir des fichiers texte [markdown](https://fr.wikipedia.org/wiki/Markdown) en pages web. Il a une [documentation](https://jekyllrb.com/docs/) très complète avec entre autre de [nombreux exemples](https://jekyllrb.com/showcase/) de site se basant sur Jekyll, et qui en montre la polyvalence.
 
 # Faire son site web
-Mais comment faire en pratique ? Je recommande chaudement la vidéo que j'ai utilisée, où Kathryn Schuler montre que l'on peut avoir un site web fonctionnel en 25mn~. Quelques petites remarques pour vous avant de regarder la vidéo : déjà GitHub met quelques minutes à générer le site web, d'où parfois un délai entre la mise à jour sur GitHub et l'affichage sur le net. Aussi, depuis la sortie de la vidéo, il faut aussi aller dans les paramètres du projet GitHub pour faire marcher GitHub Pages (`settings -> GitHub Pages -> sélectionner comme branch 'master'`). 
+Mais comment faire en pratique ? Je recommande chaudement [la vidéo que j'ai utilisée](https://www.youtube.com/watch?v=qZsgPgGdOzQ), où Kathryn Schuler montre que l'on peut avoir un site web fonctionnel en 25mn~. Quelques petites remarques pour vous avant de regarder la vidéo : déjà GitHub met quelques minutes à générer le site web, d'où parfois un délai entre la mise à jour sur GitHub et l'affichage sur le net. Aussi, depuis la sortie de la vidéo, il faut aussi aller dans les paramètres du projet GitHub pour faire marcher GitHub Pages (`settings -> GitHub Pages -> sélectionner comme branch 'master'`). 
 <!---
 Enfin dans la vidéo Kathryn n'arrive pas à mettre son CV. Cela est probablemnt du (comme le dit )
 https://github.com/MihajloNesic/jekyll-pdf-embed
 -->
-
-{% include embed.html url="https://www.youtube.com/watch?v=qZsgPgGdOzQ" %}
 
 Si le thème Jekyll [contrast](https://github.com/niklasbuschmann/contrast) utilisé dans la vidéo ainsi que pour ce site ne vous convient pas, il existe de [nombreux thèmes](http://jekyllthemes.org/) disponible gratuitement et qui utilise la même logique (fork le projet et adapter à ses besoins).
 
